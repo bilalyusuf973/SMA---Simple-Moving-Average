@@ -42,5 +42,5 @@ To install this project, follow these steps:
     ## deactivate
 <img width="421" alt="Screenshot 2023-06-17 170856" src="https://github.com/bilalyusuf973/SMA---Simple-Moving-Average/assets/111658408/fabdd9a1-5d89-4f8d-bb84-335276d3079c">
 <img width="300" alt="Screenshot 2023-06-17 170840" src="https://github.com/bilalyusuf973/SMA---Simple-Moving-Average/assets/111658408/d476a2c3-4415-4652-b315-f05da6823299">
-<img width="738" alt="Screenshot 2023-06-17 170819" src="https://github.com/bilalyusuf973/SMA---Simple-Moving-Average/assets/111658408/805343a7-61a7-40b0-af02-869caa3344f7">
+<img width="792" alt="Screenshot 2023-06-17 173334" src="https://github.com/bilalyusuf973/SMA---Simple-Moving-Average/assets/111658408/b11e549a-c98e-4180-b32b-710f954fcbd4">
 
