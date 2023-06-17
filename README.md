@@ -18,7 +18,7 @@ To install this project, follow these steps:
 
 2. Create a virtual environment:
 
-    ## venv env
+    ## py -m venv env
 
 3. Activate the virtual environment:
 
