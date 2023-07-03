@@ -14,7 +14,7 @@ To install this project, follow these steps:
 
 1. Install virtualenv into your system
 
-   '''pip install --user virtualenv'''
+   ## pip install --user virtualenv
 
 2. Create a virtual environment:
 
