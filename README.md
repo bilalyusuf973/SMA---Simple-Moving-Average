@@ -13,33 +13,39 @@ The following packages are required to run this project:
 To install this project, follow these steps:
 
 1. Install virtualenv into your system
-
-   ## pip install --user virtualenv
-
+```bash
+pip install --user virtualenv
+```
 2. Create a virtual environment:
-
-    ## py -m venv env
-
+```bash
+py -m venv env
+```
 3. Activate the virtual environment:
-
-    ## Windows - .\env\Scripts\activate
-    ## Linux/MacOS - source env/bin/activate
-
+## Windows -
+```bash
+.\env\Scripts\activate
+```
+## Linux/MacOS -
+```bash
+source env/bin/activate
+```
 4. Install the dependencies:
-
-    ## pip install -r requirements.txt
-
+```bash
+pip install -r requirements.txt
+```
 5. Open project in jupyter notebook:
-
-    ## python -m notebook
-
+```bash
+python -m notebook
+```
 6. Click on the below file:
-
-    ## main.py.ipynb
-
+```bash
+main.py.ipynb
+```
 7. To leave the virtual environment:
+```bash
+deactivate
+```
 
-    ## deactivate
 <img width="421" alt="Screenshot 2023-06-17 170856" src="https://github.com/bilalyusuf973/SMA---Simple-Moving-Average/assets/111658408/fabdd9a1-5d89-4f8d-bb84-335276d3079c">
 <img width="300" alt="Screenshot 2023-06-17 170840" src="https://github.com/bilalyusuf973/SMA---Simple-Moving-Average/assets/111658408/d476a2c3-4415-4652-b315-f05da6823299">
 <img width="792" alt="Screenshot 2023-06-17 173334" src="https://github.com/bilalyusuf973/SMA---Simple-Moving-Average/assets/111658408/b11e549a-c98e-4180-b32b-710f954fcbd4">
