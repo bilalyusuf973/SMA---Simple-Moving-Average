@@ -21,11 +21,11 @@ pip install --user virtualenv
 py -m venv env
 ```
 3. Activate the virtual environment:
-## Windows -
+Windows -
 ```bash
 .\env\Scripts\activate
 ```
-## Linux/MacOS -
+Linux/MacOS -
 ```bash
 source env/bin/activate
 ```
