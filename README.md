@@ -37,14 +37,6 @@ pip install -r requirements.txt
 ```bash
 python -m notebook
 ```
-6. Click on the below file:
-```bash
-main.py.ipynb
-```
-7. To leave the virtual environment:
-```bash
-deactivate
-```
 
 <img width="421" alt="Screenshot 2023-06-17 170856" src="https://github.com/bilalyusuf973/SMA---Simple-Moving-Average/assets/111658408/fabdd9a1-5d89-4f8d-bb84-335276d3079c">
 <img width="300" alt="Screenshot 2023-06-17 170840" src="https://github.com/bilalyusuf973/SMA---Simple-Moving-Average/assets/111658408/d476a2c3-4415-4652-b315-f05da6823299">
