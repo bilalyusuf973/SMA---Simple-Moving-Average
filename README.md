@@ -39,7 +39,6 @@ pip install -r requirements.txt
 python -m notebook
 ```
 
-<img width="421" alt="Screenshot 2023-06-17 170856" src="https://github.com/bilalyusuf973/SMA---Simple-Moving-Average/assets/111658408/fabdd9a1-5d89-4f8d-bb84-335276d3079c">
-<img width="300" alt="Screenshot 2023-06-17 170840" src="https://github.com/bilalyusuf973/SMA---Simple-Moving-Average/assets/111658408/d476a2c3-4415-4652-b315-f05da6823299">
-<img width="792" alt="Screenshot 2023-06-17 173334" src="https://github.com/bilalyusuf973/SMA---Simple-Moving-Average/assets/111658408/b11e549a-c98e-4180-b32b-710f954fcbd4">
-
+<img width="421" alt="Screenshot 2023-06-17 170856" src="https://github.com/bilalyusuf973/SMA---Simple-Moving-Average/assets/111658408/749df478-2bee-470f-aaca-77deb61cfed7">
+<img width="300" alt="Screenshot 2023-06-17 170840" src="https://github.com/bilalyusuf973/SMA---Simple-Moving-Average/assets/111658408/cd6bee98-b3dc-4474-955a-1b9a841824a1">
+<img width="792" alt="Screenshot 2023-06-17 173334" src="https://github.com/bilalyusuf973/SMA---Simple-Moving-Average/assets/111658408/7dd9df0c-852b-4b20-b73a-2dec175bb0e2">
