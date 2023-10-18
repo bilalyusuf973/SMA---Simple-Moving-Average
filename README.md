@@ -1,6 +1,7 @@
 # SMA (Simple Moving Average) Indicator:
 
-A Python-based Simple Moving Average (SMA) indicator, employing efficient data analysis techniques to track stock price trends. The program calculates the SMA by averaging stock prices over a defined period, aiding in identifying crucial market patterns and guiding investment decisions.
+* A Python-based Simple Moving Average (SMA) indicator, employing efficient data analysis techniques to track stock price trends.
+* The program calculates the SMA by averaging stock prices over a defined period, aiding in identifying crucial market patterns and guiding investment decisions.
 
 ## Requirements
 
