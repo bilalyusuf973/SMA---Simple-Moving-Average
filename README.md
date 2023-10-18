@@ -1,3 +1,5 @@
+<img width="792" alt="Screenshot 2023-06-17 173334" src="https://github.com/bilalyusuf973/SMA---Simple-Moving-Average/assets/111658408/7dd9df0c-852b-4b20-b73a-2dec175bb0e2">
+
 # SMA (Simple Moving Average) Indicator:
 
 * A Python-based Simple Moving Average (SMA) indicator, employing efficient data analysis techniques to track stock price trends.
@@ -44,4 +46,3 @@ python -m notebook
 
 <img width="421" alt="Screenshot 2023-06-17 170856" src="https://github.com/bilalyusuf973/SMA---Simple-Moving-Average/assets/111658408/749df478-2bee-470f-aaca-77deb61cfed7">
 <img width="300" alt="Screenshot 2023-06-17 170840" src="https://github.com/bilalyusuf973/SMA---Simple-Moving-Average/assets/111658408/cd6bee98-b3dc-4474-955a-1b9a841824a1">
-<img width="792" alt="Screenshot 2023-06-17 173334" src="https://github.com/bilalyusuf973/SMA---Simple-Moving-Average/assets/111658408/7dd9df0c-852b-4b20-b73a-2dec175bb0e2">
